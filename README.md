@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=pricemat&theme=burnt-neon&mode=weekly)](https://git.io/streak-stats)
+
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=outrun&preferLogin=false">    <img  alt="pricemat's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pricemat?cardType=level&theme=outrun&preferLogin=false" />  </a>
