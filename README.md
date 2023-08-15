@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://i.ytimg.com/vi/Ux5cQbO_ybw/maxresdefault.jpg" width="300px" alt="Matt Price"/>
+
 <!--
 **pricemat/pricemat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
